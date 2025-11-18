@@ -1,0 +1,30 @@
+[action]
+crete table in PostgreSQl 
+
+[context]
+the first table is it will be tcg cards
+
+
+connect tables with FOREIGN KEY
+
+[informations]
+the first table
+HP
+Name of card
+Type
+Attack
+Weakness
+Cust of recue
+Resistence
+Number of card
+Illustrator
+Rule Special
+Stage
+cardNumberInColletion
+
+
+the second table:
+- ID
+- collectionSetName
+- release Date
+- totalCardsInColletion
